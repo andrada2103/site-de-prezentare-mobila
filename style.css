@@ -131,9 +131,9 @@
 header{
     min-height: 100vh;
     padding-top: 7rem;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url("C:\\Users\\Utilizator\\Desktop\\SDA\\images\\mobil1.jpg") center/cover no-repeat;
-    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("C:\\Users\\Utilizator\\Desktop\\SDA\\images\\mobil1.jpg") center/cover no-repeat;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("C:\\Users\\Utilizator\\Desktop\\SDA\\images\\mobil1.jpg") center/cover no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url("https://scontent.fsbz3-1.fna.fbcdn.net/v/t1.6435-9/109570603_628958444414003_8681832882322182372_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RRjpHsVnCJ0AX-R4qq8&_nc_ht=scontent.fsbz3-1.fna&oh=00_AfCI2iOzUqSxGWpyTAMHGuDUOkfUjv-ABYKqwVPmR8WNTw&oe=662D2DE2") center/cover no-repeat;
+    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://scontent.fsbz3-1.fna.fbcdn.net/v/t1.6435-9/109570603_628958444414003_8681832882322182372_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RRjpHsVnCJ0AX-R4qq8&_nc_ht=scontent.fsbz3-1.fna&oh=00_AfCI2iOzUqSxGWpyTAMHGuDUOkfUjv-ABYKqwVPmR8WNTw&oe=662D2DE2") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://scontent.fsbz3-1.fna.fbcdn.net/v/t1.6435-9/109570603_628958444414003_8681832882322182372_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RRjpHsVnCJ0AX-R4qq8&_nc_ht=scontent.fsbz3-1.fna&oh=00_AfCI2iOzUqSxGWpyTAMHGuDUOkfUjv-ABYKqwVPmR8WNTw&oe=662D2DE2") center/cover no-repeat;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
